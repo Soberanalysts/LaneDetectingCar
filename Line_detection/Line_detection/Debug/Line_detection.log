@@ -1,0 +1,85 @@
+﻿Build started 2015-11-30 오후 6:20:00.
+     1>Project "C:\Users\Fermat\Desktop\소스들\Line_detection\Line_detection\Line_detection.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Line_detection.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "Line_detection(changed).c"
+         Line_detection(changed).c
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(6): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(9): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(12): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(15): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(18): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(21): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(24): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(27): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(30): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(33): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(36): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(39): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(42): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(45): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(48): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(51): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(53): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(4): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(61): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(64): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(67): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(70): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(73): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(76): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(79): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(82): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(85): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(88): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(91): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(94): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(97): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(100): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(103): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(106): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(108): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\tri_function.h(58): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(81): warning C4047: 'function' : 'int' differs in levels of indirection from 'BYTE **'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(81): warning C4024: 'SobelFilter' : different types for formal and actual parameter 5
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(81): warning C4020: 'SobelFilter' : too many actual parameters
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(85): warning C4133: 'function' : incompatible types - from 'BYTE **' to 'unsigned int **'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(97): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(101): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(103): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(105): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(107): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(109): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(111): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(204): warning C4028: formal parameter 5 different from declaration
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(204): warning C4029: declared formal parameter list different from definition
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(267): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(268): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(273): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(206): warning C4101: 'fp_info' : unreferenced local variable
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(299): warning C4028: formal parameter 2 different from declaration
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(387): warning C4020: 'cos' : too many actual parameters
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(388): warning C4020: 'sin' : too many actual parameters
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(392): warning C4020: 'cos' : too many actual parameters
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(393): warning C4020: 'sin' : too many actual parameters
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(519): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\fermat\desktop\소스들\line_detection\line_detection\line_detection(changed).c(528): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Fermat\Desktop\소스들\Line_detection\Debug\Line_detection(changed).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Fermat\Desktop\소스들\Line_detection\Debug\Line_detection(changed).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Fermat\Desktop\소스들\Line_detection\Debug\Line_detection(changed).lib" /MACHINE:X86 "Debug\Line_detection(changed).obj"
+         Line_detection.vcxproj -> C:\Users\Fermat\Desktop\소스들\Line_detection\Debug\Line_detection(changed).exe
+     1>Done Building Project "C:\Users\Fermat\Desktop\소스들\Line_detection\Line_detection\Line_detection.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.55

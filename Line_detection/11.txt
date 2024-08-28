@@ -1,0 +1,30 @@
+for(j=padding;j<height-padding;j++){
+		for(i=padding;i<width-padding;i++){
+			if(img_out[j][i]>HIGH){
+				if(theta[j][i]>22.5 && theta[j][i]<=67.5){
+					for(p=-padding;p<=padding;p++){
+						if(img_out[j+p][i+p]>LOW)	img_out_fin[j+p][i+p]=HIGH;
+						else						img_out_fin[j+p][i+p]=0;
+					}
+				}
+				else if(theta[j][i]>-22.5 && theta[j][i]<=22.5){
+					for(p=-padding;p<=padding;p++){
+						if(img_out[j-p][i+p]>LOW)	img_out_fin[j-p][i+p]=HIGH;
+						else						img_out_fin[j-p][i+p]=0;
+					}
+				}
+				else if(theta[j][i]>-67.5 && theta[j][i]<=-22.5){
+					for(p=-padding;p<=padding;p++){
+						if(img_out[j][i+p]>LOW)		img_out_fin[j][i+p]=HIGH;
+						else						img_out_fin[j][i+p]=0;
+					}
+				}
+				else if((theta[j][i]>67.5 && theta[j][i]<=-90.0)||(theta[j][i]>=-90.0 && theta[j][i]<=-67.5)){
+					for(p=-padding;p<=padding;p++){
+						if(img_out[j+p][i]>LOW)		img_out_fin[j+p][i]=HIGH;
+						else						img_out_fin[j+p][i]=0;
+					}
+				}
+			}
+		}
+	}
